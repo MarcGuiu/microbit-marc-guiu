@@ -1,4 +1,4 @@
-:smiling_imp: 
+ 
 # MICROBIT 
 :smiling_imp:<br>
 El meu codi tracta de la funció f(x) = 3x + 2
