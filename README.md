@@ -1,31 +1,3 @@
 
-> Abra esta pagina en [https://marcguiu.github.io/microbit-marc-guiu/](https://marcguiu.github.io/microbit-marc-guiu/)
-
-## Usar como extensión
-
-Este repositorio puede ser añadido como una **extensión** en MakeCode.
-
-* abra [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* haga clic en **New Project**
-* haga clic en **Extensiones** en el menú del engranaje
-* buscar **https://github.com/marcguiu/microbit-marc-guiu** e importar
-
-## Edita este proyecto ![Insignia de estado de compilación](https://github.com/marcguiu/microbit-marc-guiu/workflows/MakeCode/badge.svg)
-
-Para editar este repositorio en MakeCode.
-
-* abra [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* haga clic en **Import** luego haga clic en **Import URL**
-* pegue **https://github.com/marcguiu/microbit-marc-guiu** y haga clic en importar
-
-## Vista previa de bloques
-
-Esta imagen muestra el código de los bloques de la última confirmación en master.
-Esta imagen puede tardar unos minutos en actualizarse.
-
-![Una vista renderizada de los bloques](https://github.com/marcguiu/microbit-marc-guiu/raw/master/.github/makecode/blocks.png)
-
-#### Metadatos (utilizados para búsqueda, renderizado)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+El meu codi tracta de la funció f(x) = 3x + 2
+El funcionament es simple, mitjançant el botó A introdueixes un nombre enter positiu i amb el botó B inicies el càlcul de la serie. Un cop executat et mostra una serie de tots tots els valor de la x començant per 1 fins al nombre introduit.
